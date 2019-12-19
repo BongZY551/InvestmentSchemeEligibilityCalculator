@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Investment Scheme Eligibility Calculator</string>
+    <string name="Investment">Investment Scheme Eligibility Calculator</string>
+    <string name="SelectDob">Select Date of Birth</string>
+    <string name="Age">Age</string>
+    <string name="minBs">Min Basic Saving</string>
+    <string name="InvestmentSaving">Investment</string>
+    <string name="age" />
+    <string name="Saving" />
+    <string name="invest" />
+    <string name="viewDob" >Select</string>
+</resources>
