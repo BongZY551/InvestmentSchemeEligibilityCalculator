@@ -85,7 +85,7 @@ class MainActivity : AppCompatActivity() {
                 textView8.text = invest.toString()
 
             }
-
+//
         }
         btnReset.setOnClickListener(){
             textView8.text = ""
